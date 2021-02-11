@@ -1,0 +1,12 @@
+
+1-Oyun geçmişinde, her hamlenin konumunun “(satır,sütun)” formatına göre görüntülenmesi.
+
+2-Oyun geçmişi listesinde tıklanan liste elemanının, seçili olarak işaretlenmesi.
+
+3-Board’daki karelerin, elle hardcoded olarak kodlanmasının yerine iki for döngüsü kullanılarak Board bileşeninin düzenlenmesi.
+
+4-Bir buton eklenerek, tıklandığında oyun geçmişinin artan veya azalan şekilde sıralanmasının sağlanması.
+
+5-Bir kişi kazandığında, kazanmasına vesile olan 3 karenin renklendirilerek vurgulanması.
+
+6-Eğer hiç kazanan yoksa, berabere mesajının görüntülenmesi.
